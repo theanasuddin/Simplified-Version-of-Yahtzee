@@ -1,1 +1,1 @@
-# Simplified-Version-of-Yahtzee-
+# Simplified-Version-of-Yahtzee™
