@@ -2,7 +2,7 @@
 
 A single-player version of the classic probability dice 🎲 game [Yahtzee™](https://en.wikipedia.org/wiki/Yahtzee) written in Processing. Download [executables](https://cutt.ly/LQak6SB) for Windows. Download [installer](https://cutt.ly/TQalec7) for Windows (64-bit). If you are interested to run the source code in Processing IDE on your preferred OS, you can go through the following steps.
 
-![cover](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/cover.png?token=AK6UQETBD6JYKGUEO5BII4LBAQKQQ)
+![cover](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/cover.png?token=AK6UQEVMIKFXCHDMGP3W5EDBAQP6M)
 
 ## How To Run ▶ The Source Code?
 
@@ -58,8 +58,8 @@ If a category is chosen but the dice do not match the requirements of the catego
 
 ## UI:
 
-![user interface](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/main_ui.png?token=AK6UQEVRKI5XN4CNXXOT5HTBAQKTQ)
+![user interface](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/main_ui.png?token=AK6UQEU435XTQFUM4JBQTHDBAQQAG)
 
 ## Demo GIF:
 
-![demo](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/demo.gif?token=AK6UQEWKL4Q4NXEQJGUX4T3BAQKOQ)
+![demo](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/demo.gif?token=AK6UQEUCVK7KJVNQQOXCXEDBAQQC4)
