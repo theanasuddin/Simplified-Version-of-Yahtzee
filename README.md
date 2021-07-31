@@ -26,11 +26,11 @@ A single-player version of the classic probability dice 🎲 game [Yahtzee™](h
  ![extracted folder](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/3.png)
  3. Goto the specific folder 📁 from the folders *"application.linux32"*, *"application.linux64"*, *"application.linux-arm64"*, and *"application.linux-armv6hf"* found inside the unzipped *"Yahtzee-Linux-Executables"* folder for your specific Linux machine.
  ![all folders](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/4.png)
- 4. Right click on the *"Yahtzee"* file found inside a specific folder dedicated for for your specific machine.
- 5. Click on "Properties", then goto 👉 "Permissions" tab and check ☒ "Allow executing file as program" under the "Execute:" label.
+ 4. Right click on the *"Yahtzee"* file found inside a specific folder dedicated for your specific machine.
+ 5. Click on "Properties", then goto "Permissions" tab and check ☒ "Allow executing file as program" under the "Execute:" label.
  ![click on properties](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/5.png)
  ![check](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/6.png)
- 6. Close the window and again right click on an empty area to "Open in Terminal".
+ 6. Close the window and right click on an empty area to open the terminal here.
  ![open terminal](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/7.png)
  7. Click on "Open in Terminal" to open the terminal and run the following command:
 
