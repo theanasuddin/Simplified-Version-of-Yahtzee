@@ -20,7 +20,7 @@ A single-player version of the classic probability dice 🎲 game [Yahtzee™](h
 ## How To Run ▶ On A Linux Distribution?
 
  1. Download [executables for Linux](https://cutt.ly/CQfVdiX) distributions.
-  ![executables for linux](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/1.png)
+ ![executables for linux](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/1.png)
  2. Unzip the *"Yahtzee-Linux-Executables.zip"* file.
  ![extract executables for linux](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/2.png)
  ![extracted folder](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/3.png)
@@ -32,13 +32,14 @@ A single-player version of the classic probability dice 🎲 game [Yahtzee™](h
  ![check](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/6.png)
  6. Close the window and again right click on an empty area to "Open in Terminal".
  ![open terminal](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/7.png)
-7. Click on "Open in Terminal" to open the terminal and run the following command:
+ 7. Click on "Open in Terminal" to open the terminal and run the following command:
+
     ```sh
-    $ /Yahtzee
+    $ ./Yahtzee
     ```
-![run the command](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/8.png)
-8. Play.
-![play](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/9.png)
+    ![run the command](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/8.png)
+ 8. Play.
+ ![play](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/9.png)
 
 ## About The Game :game_die::
 
