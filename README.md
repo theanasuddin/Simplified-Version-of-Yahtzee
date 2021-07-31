@@ -1,6 +1,6 @@
 # Simplified-Version-of-Yahtzee™
 
-A single-player version of the classic probability dice 🎲 game [Yahtzee™](https://en.wikipedia.org/wiki/Yahtzee) written in Processing. Download [executables for Windows](https://cutt.ly/LQak6SB). Download [executables for Linux](https://cutt.ly/CQfVdiX) distributions. Download [installer for Windows](https://cutt.ly/TQalec7) (64-bit). If you are interested to run the source code in Processing IDE on your preferred OS, you can go through the steps mentioned later in this document.
+A single-player version of the classic probability dice 🎲 game [Yahtzee™](https://en.wikipedia.org/wiki/Yahtzee) written in Processing. Download [executables for Windows](https://cutt.ly/LQak6SB). Download [executables for Linux](https://cutt.ly/CQfVdiX) distributions. For more instructions on how to run on Linux, click [here](https://github.com/theanasuddin/Simplified-Version-of-Yahtzee/blob/main/README.md#how-to-run--on-a-linux-distribution). Download [installer for Windows](https://cutt.ly/TQalec7) (64-bit). If you are interested to run the source code in Processing IDE on your preferred OS, you can go through the steps mentioned [here](https://github.com/theanasuddin/Simplified-Version-of-Yahtzee#how-to-run--the-source-code).
 
 ![cover](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/cover.png)
 
