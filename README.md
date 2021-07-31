@@ -1,8 +1,12 @@
 # Simplified-Version-of-Yahtzee™
 
-A single-player version of the classic probability dice 🎲 game [Yahtzee™](https://en.wikipedia.org/wiki/Yahtzee) written in Processing. Download [executables for Windows](https://cutt.ly/LQak6SB). Download [executables for Linux](https://cutt.ly/CQfVdiX) distributions. Download [installer for Windows](https://cutt.ly/TQalec7) (64-bit). If you are interested to run the source code in Processing IDE on your preferred OS, you can go through the following steps.
+A single-player version of the classic probability dice 🎲 game [Yahtzee™](https://en.wikipedia.org/wiki/Yahtzee) written in Processing. Download [executables for Windows](https://cutt.ly/LQak6SB). Download [executables for Linux](https://cutt.ly/CQfVdiX) distributions. Download [installer for Windows](https://cutt.ly/TQalec7) (64-bit). If you are interested to run the source code in Processing IDE on your preferred OS, you can go through the steps mentioned later in this document.
 
-![cover](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/cover.png?token=AK6UQETNJJ4G2TCONGCHKVLBAQQXQ)
+![cover](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/cover.png)
+
+## User Interface:
+
+![user interface](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/main_ui.png)
 
 ## How To Run ▶ The Source Code?
 
@@ -12,6 +16,29 @@ A single-player version of the classic probability dice 🎲 game [Yahtzee™](h
  4. Move the *"Yahtzee"* folder to sketchbook location. Default sketchbook location is `C:\Users\<name>\Documents\Processing` for Windows, here `<name>` is the name of your user account.
  5. Go inside the *"Yahtzee"* folder and open the *"Yahtzee.pde"* source file with Processing.
  6. Click on Run ▶ button inside Processing and play.
+
+## How To Run ▶ On A Linux Distribution?
+
+ 1. Download [executables for Linux](https://cutt.ly/CQfVdiX) distributions.
+  ![executables for linux](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/1.png)
+ 2. Unzip the *"Yahtzee-Linux-Executables.zip"* file.
+ ![extract executables for linux](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/2.png)
+ ![extracted folder](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/3.png)
+ 3. Goto the specific folder 📁 from the folders *"application.linux32"*, *"application.linux64"*, *"application.linux-arm64"*, and *"application.linux-armv6hf"* found inside the unzipped *"Yahtzee-Linux-Executables"* folder for your specific Linux machine.
+ ![all folders](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/4.png)
+ 4. Right click on the *"Yahtzee"* file found inside a specific folder dedicated for for your specific machine.
+ 5. Click on "Properties", then goto 👉 "Permissions" tab and check ☒ "Allow executing file as program" under the "Execute:" label.
+ ![click on properties](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/5.png)
+ ![check](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/6.png)
+ 6. Close the window and again right click on an empty area to "Open in Terminal".
+ ![open terminal](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/7.png)
+7. Click on "Open in Terminal" to open the terminal and run the following command:
+    ```sh
+    $ /Yahtzee
+    ```
+![run the command](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/8.png)
+8. Play.
+![play](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/screenshots/how%20to%20run%20on%20linux/9.png)
 
 ## About The Game :game_die::
 
@@ -56,10 +83,6 @@ The lower section contains a number of poker-themed categories with specific poi
 
 If a category is chosen but the dice do not match the requirements of the category the player scores 0 in that category. Some combinations offer the player a choice as to which category to score them under; e.g., a full house could be scored in the Full House, the Three-Of-A-Kind, or the Chance categories. The Chance category is often used for a turn that will not score well in any other category.
 
-## UI:
-
-![user interface](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/main_ui.png?token=AK6UQEU5EMYL4OFS2KXK6GLBAQQY6)
-
 ## Demo GIF:
 
-![demo](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/demo.gif?token=AK6UQES3ONDRHZRU5AWSCQ3BAQQ32)
+![demo](https://raw.githubusercontent.com/theanasuddin/Simplified-Version-of-Yahtzee/main/demo.gif)
